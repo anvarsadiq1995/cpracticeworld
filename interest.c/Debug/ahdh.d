@@ -1,0 +1,1 @@
+ahdh.o: ../ahdh.c
